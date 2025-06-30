@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Azazilya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html :)
-
-<!---
-Azazilya/Azazilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Azazilya  
+🎮 A passionate Game Technology student at PENS  
+🧠 Learning to become a skilled Game Developer  
+💻 3 years of coding experience and still growing  
+🌱 Currently exploring game development  
+✨ Let's Developing much fun game!
